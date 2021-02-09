@@ -1,0 +1,95 @@
+nohup: ignoring input
+[StarRTC 2021-01-23 17:51:33] Your AEC url: Disabled
+[StarRTC 2021-01-23 17:51:54] [STAR SERVER_SDK INIT SUCCESS]
+[StarRTC 2021-01-23 17:51:54] groupLoopCheck thread start!
+[StarRTC 2021-01-23 17:51:54] [localIP:192.168.9.101, binding port:19902(local) and 19903(out)]
+[StarRTC 2021-01-23 17:51:54] chatRoomLoopCheck thread start!
+[StarRTC 2021-01-23 17:51:54] [msgServer[2.9.6] start success]
+
+[StarRTC 2021-01-23 17:51:54] [Thanks for your support, Please use the following contact information for feedback]
+[StarRTC 2021-01-23 17:51:54] [QQ group: 807242783]
+[StarRTC 2021-01-23 17:51:54] [Github: https://github.com/starRTC
+[StarRTC 2021-01-23 17:51:54] [TEL: +86 18612946552]
+
+[StarRTC 2021-01-23 17:51:54] [Enjoy Your Work!]
+[StarRTC 2021-01-23 17:54:15] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 17:54:15] login auth success, userId=APPID-FREE_548606,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 17:54:15] first login,create and insert tree:APPID-FREE_548606
+[StarRTC 2021-01-23 17:54:15] Check offline msg now...APPID-FREE_548606
+[StarRTC 2021-01-23 17:55:15] ==asockSrvDisconnectFun== ,cfd = 20
+[StarRTC 2021-01-23 17:55:16] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 17:55:16] login auth success, userId=APPID-FREE_548606,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 17:58:41] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 17:58:41] login auth success, userId=APPID-FREE_548606,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 17:58:41] === same account login,close...21
+[StarRTC 2021-01-23 17:58:41] sendErrMsg: MSGSERVER_ERRID_DUPLICATE_LOGIN
+[StarRTC 2021-01-23 17:58:41] Check offline msg now...APPID-FREE_548606
+[StarRTC 2021-01-23 17:58:41] ==asockSrvDisconnectFun== ,cfd = 21
+[StarRTC 2021-01-23 17:59:20] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 17:59:20] login auth success, userId=APPID-FREE_209793,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 17:59:20] first login,create and insert tree:APPID-FREE_209793
+[StarRTC 2021-01-23 17:59:20] Check offline msg now...APPID-FREE_209793
+[StarRTC 2021-01-23 18:00:17] MSG_CLIENT_GET_ALIVE_NUMBER_FIN: curMaxFd=22,totalOnlineNum=2
+[StarRTC 2021-01-23 18:00:17] MSG_CLIENT_GET_ALL_USER_LIST: curMaxFd=22,totalOnlineNum=2
+[StarRTC 2021-01-23 18:00:17] MSG_CLIENT_GET_ALL_USER_LIST: APPID-FREE_548606,APPID-FREE_209793
+[StarRTC 2021-01-23 18:00:40] ==asockSrvDisconnectFun== ,cfd = 20
+[StarRTC 2021-01-23 18:01:01] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 18:01:01] login auth success, userId=APPID-FREE_548606,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 18:01:24] ==asockSrvDisconnectFun== ,cfd = 22
+[StarRTC 2021-01-23 18:05:24] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 18:05:24] login auth success, userId=APPID-FREE_593547,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 18:05:24] first login,create and insert tree:APPID-FREE_593547
+[StarRTC 2021-01-23 18:05:24] Check offline msg now...APPID-FREE_593547
+[StarRTC 2021-01-23 18:06:19] ==asockSrvDisconnectFun== ,cfd = 20
+[StarRTC 2021-01-23 18:06:28] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 18:06:28] login auth success, userId=APPID-FREE_593547,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 18:06:45] ==asockSrvDisconnectFun== ,cfd = 22
+[StarRTC 2021-01-23 18:06:48] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 18:06:48] login auth success, userId=APPID-FREE_593547,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 18:07:07] ==asockSrvDisconnectFun== ,cfd = 21
+[StarRTC 2021-01-23 18:07:17] MSG_CLIENT_AUTH
+[StarRTC 2021-01-23 18:07:17] login auth success, userId=APPID-FREE_548606,osType=0,deviceToken=FREEDEVICE
+[StarRTC 2021-01-23 18:07:39] #####  rev msg,same server
+[StarRTC 2021-01-23 18:07:39] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:07:39] ====APPID-FREE_593547 send msg to APPID-FREE_548606 ====
+[StarRTC 2021-01-23 18:07:39] checkNeedSendList: raw len=280,send len=293
+[StarRTC 2021-01-23 18:07:42] #####  rev msg,same server
+[StarRTC 2021-01-23 18:07:42] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:07:42] ====APPID-FREE_593547 send msg to APPID-FREE_548606 ====
+[StarRTC 2021-01-23 18:07:42] checkNeedSendList: raw len=280,send len=293
+[StarRTC 2021-01-23 18:07:43] #####  rev msg,same server
+[StarRTC 2021-01-23 18:07:43] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:07:43] ====APPID-FREE_548606 send msg to APPID-FREE_593547 ====
+[StarRTC 2021-01-23 18:07:43] checkNeedSendList: raw len=163,send len=176
+[StarRTC 2021-01-23 18:07:46] #####  rev msg,same server
+[StarRTC 2021-01-23 18:07:46] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:07:46] ====APPID-FREE_593547 send msg to APPID-FREE_548606 ====
+[StarRTC 2021-01-23 18:07:46] checkNeedSendList: raw len=163,send len=176
+[StarRTC 2021-01-23 18:07:50] #####  rev msg,same server
+[StarRTC 2021-01-23 18:07:50] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:07:50] ====APPID-FREE_593547 send msg to APPID-FREE_548606 ====
+[StarRTC 2021-01-23 18:07:50] checkNeedSendList: raw len=280,send len=293
+[StarRTC 2021-01-23 18:07:53] #####  rev msg,same server
+[StarRTC 2021-01-23 18:07:53] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:07:53] ====APPID-FREE_593547 send msg to APPID-FREE_548606 ====
+[StarRTC 2021-01-23 18:07:53] checkNeedSendList: raw len=280,send len=293
+[StarRTC 2021-01-23 18:07:53] #####  rev msg,same server
+[StarRTC 2021-01-23 18:07:53] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:07:53] ====APPID-FREE_548606 send msg to APPID-FREE_593547 ====
+[StarRTC 2021-01-23 18:07:53] checkNeedSendList: raw len=163,send len=176
+[StarRTC 2021-01-23 18:08:00] #####  rev msg,same server
+[StarRTC 2021-01-23 18:08:00] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:08:00] ====APPID-FREE_593547 send msg to APPID-FREE_548606 ====
+[StarRTC 2021-01-23 18:08:00] checkNeedSendList: raw len=163,send len=176
+[StarRTC 2021-01-23 18:08:04] #####  rev msg,same server
+[StarRTC 2021-01-23 18:08:04] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:08:04] ====APPID-FREE_593547 send msg to APPID-FREE_548606 ====
+[StarRTC 2021-01-23 18:08:04] checkNeedSendList: raw len=280,send len=293
+[StarRTC 2021-01-23 18:08:06] #####  rev msg,same server
+[StarRTC 2021-01-23 18:08:06] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:08:06] ====APPID-FREE_548606 send msg to APPID-FREE_593547 ====
+[StarRTC 2021-01-23 18:08:06] checkNeedSendList: raw len=163,send len=176
+[StarRTC 2021-01-23 18:08:19] #####  rev msg,same server
+[StarRTC 2021-01-23 18:08:19] ###sendMsg### msgType = MSG_TYPE_SINGLE_CHAT
+[StarRTC 2021-01-23 18:08:19] ====APPID-FREE_593547 send msg to APPID-FREE_548606 ====
+[StarRTC 2021-01-23 18:08:19] checkNeedSendList: raw len=163,send len=176
